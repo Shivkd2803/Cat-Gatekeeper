@@ -136,10 +136,7 @@ Cat-Gatekeeper/
 ├── run.bat
 ├── requirements.txt
 │
-├── assets/
-│   ├── main-ui.png
-│   ├── focus-session.png
-│   └── break-overlay.png
+
 ```
 
 ---
