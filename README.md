@@ -68,29 +68,11 @@ Once the work timer ends, the application launches a full-screen break mode disp
 
 ## Main Interface
 
-```text
-assets/main-ui.png
-```
-
-![Main UI](assets/main-ui.png)
-
----
-
-## Focus Session Running
-
-```text
-assets/focus-session.png
-```
-
-![Focus Session](assets/focus-session.png)
+![Main UI](CatGatekeeper/main.png)
 
 ---
 
 ## Full-Screen Break Overlay
-
-```text
-assets/break-overlay.png
-```
 
 ![Break Overlay](CatGatekeeper/break.png)
 
