@@ -92,7 +92,7 @@ assets/focus-session.png
 assets/break-overlay.png
 ```
 
-![Break Overlay](assets/break-overlay.png)
+![Break Overlay](CatGatekeeper/break.png)
 
 ---
 
